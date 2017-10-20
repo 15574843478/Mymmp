@@ -1,0 +1,3 @@
+rootProject.name = 'Mymmp'
+
+include ':app'
